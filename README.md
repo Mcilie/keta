@@ -1,2 +1,2 @@
 # keta
-MacOS battery notification
+Battery notification app
